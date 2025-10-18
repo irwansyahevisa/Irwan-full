@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "IrwanPro Signal",
+    "slug": "Irwan-full",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "owner": "irwansyahevisa",
+    "android": {
+      "package": "com.irwansyah.irwanprosignal"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c46a80b3-abb3-4633-bb43-42a10abaddd6"
+      }
+    }
+  }
+}
